@@ -1,0 +1,20 @@
+Week 1 goals : Tue Dec 8 - Sun 13
+----------------------------------
+
+Day Tuesday Dec 8
+----------------------
+8:22 pm - 9:30 pm 
+-setup new repo in git
+-create files
+-create branch
+-edit in branch
+-merge master
+-find original before branch
+
+
+10:30pm 
+-sync with adrian via skype on status
+-dev setup
+-need java guy
+-
+
