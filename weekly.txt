@@ -1,11 +1,18 @@
 Week 1 goals : Tue Dec 8 - Sun 13
 ----------------------------------
+-familiarized with git branch/merge
+-able to see previous version of files
+-ticketings system
+-dev environment status
+-get angular to work on local
+-get node to work on local
 
 
 
 Week 2 goals : Mon Dec 14 - Sun 20
 -------------------------------------
-
+-get statosphere to work on local
+-get helionode to work on local
 
 
 Week 2 goals : Mon Dec 14 - Sun 20

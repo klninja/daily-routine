@@ -3,5 +3,7 @@ Week 2 goals : Mon Dec 14 - Sun 20
 
 Day Monday Dec 14
 ----------------------
--
+-get statosphere to work on local
+-get helionode to work on local
+
 
