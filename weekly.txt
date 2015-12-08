@@ -15,5 +15,8 @@ Week 2 goals : Mon Dec 14 - Sun 20
 -get helionode to work on local
 
 
-Week 2 goals : Mon Dec 14 - Sun 20
+Week 3 goals : Mon Dec 14 - Sun 20
+-------------------------------------
+
+Week 4 goals : Mon Dec 14 - Sun 20
 -------------------------------------
